@@ -29,7 +29,7 @@ A real-time **gesture-controlled virtual mouse system** built using **Computer V
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/virtual-mouse.git
+git clone https://github.com/somiya-namdeo/hand-tracking-mouse-opencv-mediapipe.git
 cd virtual-mouse
 ```
 
