@@ -60,7 +60,7 @@ This project provides a contactless human-computer interaction system using hand
 git clone https://github.com/somiya-namdeo/hand-tracking-mouse-opencv-mediapipe.git
 cd hand-tracking-mouse-opencv-mediapipe
 ```
-# Create Virtual Enviornment
+### Create Virtual Environment
 ```bash
 python -m venv venv
 venv\Scripts\activate   # For Windows
@@ -68,8 +68,8 @@ venv\Scripts\activate   # For Windows
 # Install Dependencies
 ```bash
 pip install -r requirements.txt
-8. Usage
 ```
+## 8. Usage
 
 # Run the application:
 ```bash
@@ -77,7 +77,7 @@ python main.py
 ```
 Press ESC to exit the application.
 
-## 9.Controls
+## 9. Controls
 
 | Gesture                | Description                          | Action        |
 |-----------------------|--------------------------------------|--------------|
@@ -98,10 +98,10 @@ Relative positioning of fingers
 A smoothing algorithm is applied to reduce cursor jitter and improve user experience.
 
  # 11. Results
-Accurate real-time hand tracking
-Smooth cursor movement
-Reliable gesture-based interaction
-Responsive system performance
+- Accurate real-time hand tracking
+- Smooth cursor movement
+- Reliable gesture-based interaction
+- Responsive system performance
 
 # 12. Use Cases
 Touchless human-computer interaction
@@ -123,7 +123,6 @@ hand-tracking-mouse-opencv-mediapipe/
 ├── main.py
 ├── requirements.txt
 ├── README.md
-└── venv/
 ```
 
 # 15. Acknowledgements
