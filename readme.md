@@ -116,13 +116,15 @@ Multi-hand support
 Gesture-based system controls (volume, brightness)
 GUI-based customization
 
-# 14. Project Structure
+# 14. Project Structure 
+```bash
 hand-tracking-mouse-opencv-mediapipe/
 │
 ├── main.py
 ├── requirements.txt
 ├── README.md
 └── venv/
+```
 
 # 15. Acknowledgements
 MediaPipe by Google
